@@ -20,6 +20,6 @@ The tool looks for the following red flags and indicators of a suspicious URL:
 
 ## Installation
 
-`git clone https://github.com/wurrr362/su5picious_UR1.git`
+`git clone https://github.com/wurrrr362/su5picious_UR1.git`
 
 ` cd su5picious_UR1` 
