@@ -22,4 +22,4 @@ The tool looks for the following red flags and indicators of a suspicious URL:
 
 `git clone https://github.com/wurrr362/su5picious_UR1.git`
 
-`/n cd su5picious_UR1` 
+` cd su5picious_UR1` 
